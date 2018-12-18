@@ -1,0 +1,56 @@
+{"preguntas":[
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  },
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  },
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  },
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  },
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  },
+  {"enunciado":"Este es el enunciado de la pregunta",
+    "opciones":[
+      {"opcion":"","correcta":true},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false},
+      {"opcion":"","correcta":false}
+    ]
+  }
+]}
