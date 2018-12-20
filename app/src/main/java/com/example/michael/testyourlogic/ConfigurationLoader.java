@@ -7,7 +7,6 @@ import com.example.michael.testyourlogic.entities.Preguntas;
 import com.example.michael.testyourlogic.helper.JsonUtils;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -28,7 +27,7 @@ public class ConfigurationLoader {
 
             JsonUtils jsonUtils = new JsonUtils();
             Preguntas preguntas = jsonUtils.convertToObject(sb.toString(), Preguntas.class);
-            ManagerPreguntas.getInstance().setPreguntas(preguntas);
+            ManagerPreguntas.getInstance().setListaDePreguntas(preguntas);
         }catch(IOException e){
             return false;
         }
