@@ -1,56 +1,56 @@
 {"preguntas":[
-  {"enunciado":"Este es el enunciado de la pregunta",
+  {"enunciado":"En una librería hay dos cajas con lapiceros. La caja G solo tiene lapiceros de la marca G y la caja S solo tiene lapiceros de la marca S. Cierto día se sacan 15 lapiceros de la caja G y se depositan en la caja S, luego se revuelven todos los lapiceros que están en la caja S y se sacan de esta 9 lapiceros que se depositan en la caja G",
     "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
+      {"opcion":"S no quedaron lapiceros de la marca G","correcta":true},
+      {"opcion":"G no quedaron lapiceros de la marca G","correcta":false},
+      {"opcion":"S quedó, al menos, un lapicero de la marca S","correcta":false},
+      {"opcion":"S quedó, al menos, un lapicero de la marca G","correcta":false},
+      {"opcion":"G quedó, al menos, un lapicero de la marca S","correcta":false}
+    ]
+  },
+  {"enunciado":"Si alguien sabe andar en bicicleta es porque ha pasado por un proceso de aprendizaje, durante el cual pueden ocurrir muchas caídas. No obstante, llega el momento en que el aprendiz es capaz de mantener un equilibrio activo\n\nAnalice las siguientes afirmaciones:\n\nI. El aprendizaje no requiere de tiempo.\nII. En todo aprendizaje pueden ocurrir equivocaciones.\nIII. Algunos procesos de aprendizaje no tardan mucho tiempo en completarse.\nDe las anteriores afirmaciones, ¿cuál(es) hace(n) que el texto principal sea falso?",
+    "opciones":[
+      {"opcion":"Opcion 1","correcta":true},
+      {"opcion":"Opcion 2","correcta":false},
+      {"opcion":"Opcion 3","correcta":false},
+      {"opcion":"Opcion 4","correcta":false},
+      {"opcion":"Opcion 5","correcta":false}
     ]
   },
   {"enunciado":"Este es el enunciado de la pregunta",
     "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
+      {"opcion":"Opcion 1","correcta":true},
+      {"opcion":"Opcion 2","correcta":false},
+      {"opcion":"Opcion 3","correcta":false},
+      {"opcion":"Opcion 4","correcta":false},
+      {"opcion":"Opcion 5","correcta":false}
     ]
   },
   {"enunciado":"Este es el enunciado de la pregunta",
     "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
+      {"opcion":"Opcion 1","correcta":true},
+      {"opcion":"Opcion 2","correcta":false},
+      {"opcion":"Opcion 3","correcta":false},
+      {"opcion":"Opcion 4","correcta":false},
+      {"opcion":"Opcion 5","correcta":false}
     ]
   },
   {"enunciado":"Este es el enunciado de la pregunta",
     "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
+      {"opcion":"Opcion 1","correcta":true},
+      {"opcion":"Opcion 2","correcta":false},
+      {"opcion":"Opcion 3","correcta":false},
+      {"opcion":"Opcion 4","correcta":false},
+      {"opcion":"Opcion 5","correcta":false}
     ]
   },
   {"enunciado":"Este es el enunciado de la pregunta",
     "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
-    ]
-  },
-  {"enunciado":"Este es el enunciado de la pregunta",
-    "opciones":[
-      {"opcion":"","correcta":true},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false},
-      {"opcion":"","correcta":false}
+      {"opcion":"Opcion 1","correcta":true},
+      {"opcion":"Opcion 2","correcta":false},
+      {"opcion":"Opcion 3","correcta":false},
+      {"opcion":"Opcion 4","correcta":false},
+      {"opcion":"Opcion 5","correcta":false}
     ]
   }
 ]}

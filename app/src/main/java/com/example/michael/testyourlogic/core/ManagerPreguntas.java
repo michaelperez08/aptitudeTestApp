@@ -1,15 +1,12 @@
 package com.example.michael.testyourlogic.core;
 
-import com.example.michael.testyourlogic.entities.Pregunta;
 import com.example.michael.testyourlogic.entities.Preguntas;
-
-import java.util.List;
 
 public class ManagerPreguntas {
 
     private static ManagerPreguntas instance;
 
-    private Preguntas preguntas;
+    private Preguntas listaDePreguntas;
 
     public static ManagerPreguntas getInstance(){
         if(instance==null){
@@ -18,11 +15,11 @@ public class ManagerPreguntas {
         return instance;
     }
 
-    public Preguntas getPreguntas() {
-        return preguntas;
+    public Preguntas getListaDePreguntas() {
+        return listaDePreguntas;
     }
 
-    public void setPreguntas(Preguntas preguntas) {
-        this.preguntas = preguntas;
+    public void setListaDePreguntas(Preguntas listaDePreguntas) {
+        this.listaDePreguntas = listaDePreguntas;
     }
 }
